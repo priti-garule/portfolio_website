@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Netflix Home Page</title>
+</head>
+<body>
+<img src="netflix home page.jpeg" alt="">
+<a href="https://www.netflix.com/">Netflix</a>
+</body>
+</html>
